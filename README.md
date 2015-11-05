@@ -1,3 +1,17 @@
+# MakeupName - an addictive 2d game
+
+** made by g00316039 - Jakub "Ash" Michalek **
+
+--> Instructions
+--> Name
+--> Patch notes??
+-->
+
+
+
+
+
+
 1:30 a.m.
 Wild idea.
 Why not make a game like gold miner from my childhood.
